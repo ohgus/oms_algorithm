@@ -13,3 +13,4 @@ for (i = 0; i < testcase; i++){
 }
 
 console.log(final / testcase) ;
+// 이미 업데이트??
